@@ -1,0 +1,5 @@
+1. The help function help().
+    Inside the brackets the name of the function is written.
+    Eg. help(print).
+
+2. Use doc strings in python. Docstrings are comments written in python.
